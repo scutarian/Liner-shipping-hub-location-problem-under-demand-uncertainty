@@ -2,7 +2,7 @@
 
 This directory contains a supplementary PDF including:
 
-- The full notation used in the mathematical model
+- The full notation used in the algorithms
 - The pseudocode of the Tabu Search algorithm
 - The pseudocode of the Decomposition Heuristic
 
